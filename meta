@@ -8,11 +8,11 @@ Rails Aesthetic
 Username & Password
 Add calendar functionality.
 Add re-rank / move item functionality.
-Machine Learning for Ranking Algorithm optimization / Learning algorithm taught by pushing task up or down in rank
 Add due date
 Add date added
 Add people involved in task (once usernames established)
-Autosave && / || Save + Save as
+Machine learning for Ranking Algorithm optimization / Learning algorithm taught by pushing task up or down in rank
+Autosave and/or Save + Save as
 Add list of all openable files
 Add "Due By: " functionality. As time passes order tasks by due date, and once a task is either approaching due-date or passed it, ask if they would like to move to a new date, cancel task, or complete it.
 Add sorting functionality. (ie sort by due date, by effort, by long term benefit, alphabetically, by the people tagged to a task, to the place where task should be done, etc.)
