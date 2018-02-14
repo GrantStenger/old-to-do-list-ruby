@@ -225,6 +225,6 @@ if __FILE__ == $PROGRAM_NAME
 	end
 	system 'clear'
 	puts 'Thanks for stopping by!'
-	sleep(1)
+	sleep(1) 
 	system 'clear'
 end
